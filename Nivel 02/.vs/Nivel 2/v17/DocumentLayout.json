@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\",
+  "WorkspaceRootPath": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF400707-A72C-4EE5-BD8C-24B4F3FCE839}|Proyecto 05\\Proyecto 05.csproj|d:\\joseluispz\\lenguaje c#\\nivel 2\\proyecto 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF400707-A72C-4EE5-BD8C-24B4F3FCE839}|Proyecto 05\\Proyecto 05.csproj|d:\\joseluispz\\lenguaje c#\\nivel 02\\proyecto 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF400707-A72C-4EE5-BD8C-24B4F3FCE839}|Proyecto 05\\Proyecto 05.csproj|solutionrelative:proyecto 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A88B2EC2-8042-45F1-AD31-FF351610C00D}|Proyecto 04\\Proyecto 04.csproj|d:\\joseluispz\\lenguaje c#\\nivel 2\\proyecto 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A88B2EC2-8042-45F1-AD31-FF351610C00D}|Proyecto 04\\Proyecto 04.csproj|D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\proyecto 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A88B2EC2-8042-45F1-AD31-FF351610C00D}|Proyecto 04\\Proyecto 04.csproj|solutionrelative:proyecto 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8497F616-EE11-448F-9F72-51DB5E3F032B}|Proyecto 03\\Proyecto 03.csproj|D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\proyecto 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8497F616-EE11-448F-9F72-51DB5E3F032B}|Proyecto 03\\Proyecto 03.csproj|D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\proyecto 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8497F616-EE11-448F-9F72-51DB5E3F032B}|Proyecto 03\\Proyecto 03.csproj|solutionrelative:proyecto 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F644D74F-4B78-41B4-8311-E2D937AD9E1A}|Proyecto 02\\Proyecto 02.csproj|D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\proyecto 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F644D74F-4B78-41B4-8311-E2D937AD9E1A}|Proyecto 02\\Proyecto 02.csproj|D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\proyecto 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F644D74F-4B78-41B4-8311-E2D937AD9E1A}|Proyecto 02\\Proyecto 02.csproj|solutionrelative:proyecto 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBEB2ECD-2EE0-4B21-A20F-106F03DCB792}|Proyecto 01\\Proyecto 01.csproj|D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\proyecto 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBEB2ECD-2EE0-4B21-A20F-106F03DCB792}|Proyecto 01\\Proyecto 01.csproj|D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\proyecto 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBEB2ECD-2EE0-4B21-A20F-106F03DCB792}|Proyecto 01\\Proyecto 01.csproj|solutionrelative:proyecto 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\Proyecto 05\\Program.cs",
+              "DocumentMoniker": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\Proyecto 05\\Program.cs",
               "RelativeDocumentMoniker": "Proyecto 05\\Program.cs",
-              "ToolTip": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\Proyecto 05\\Program.cs",
+              "ToolTip": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\Proyecto 05\\Program.cs",
               "RelativeToolTip": "Proyecto 05\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T14:07:51.56Z",
               "EditorCaption": ""
@@ -49,22 +49,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\Proyecto 04\\Program.cs",
+              "DocumentMoniker": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\Proyecto 04\\Program.cs",
               "RelativeDocumentMoniker": "Proyecto 04\\Program.cs",
-              "ToolTip": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\Proyecto 04\\Program.cs",
+              "ToolTip": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\Proyecto 04\\Program.cs",
               "RelativeToolTip": "Proyecto 04\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T18:07:36.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T18:07:36.008Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\Proyecto 03\\Program.cs",
+              "DocumentMoniker": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\Proyecto 03\\Program.cs",
               "RelativeDocumentMoniker": "Proyecto 03\\Program.cs",
-              "ToolTip": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\Proyecto 03\\Program.cs",
+              "ToolTip": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\Proyecto 03\\Program.cs",
               "RelativeToolTip": "Proyecto 03\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\Proyecto 02\\Program.cs",
+              "DocumentMoniker": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\Proyecto 02\\Program.cs",
               "RelativeDocumentMoniker": "Proyecto 02\\Program.cs",
-              "ToolTip": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\Proyecto 02\\Program.cs",
+              "ToolTip": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\Proyecto 02\\Program.cs",
               "RelativeToolTip": "Proyecto 02\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\Proyecto 01\\Program.cs",
+              "DocumentMoniker": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\Proyecto 01\\Program.cs",
               "RelativeDocumentMoniker": "Proyecto 01\\Program.cs",
-              "ToolTip": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 2\\Proyecto 01\\Program.cs",
+              "ToolTip": "D:\\JoseLuisPZ\\Lenguaje C#\\Nivel 02\\Proyecto 01\\Program.cs",
               "RelativeToolTip": "Proyecto 01\\Program.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAAwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
