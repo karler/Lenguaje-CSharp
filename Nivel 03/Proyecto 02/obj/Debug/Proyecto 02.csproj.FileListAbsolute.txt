@@ -1,0 +1,2 @@
+D:\JoseLuisPZ\Lenguaje C#\Nivel 03\Proyecto 02\obj\Debug\Proyecto 02.csproj.AssemblyReference.cache
+D:\JoseLuisPZ\Lenguaje C#\Nivel 03\Proyecto 02\obj\Debug\Proyecto 02.csproj.CoreCompileInputs.cache

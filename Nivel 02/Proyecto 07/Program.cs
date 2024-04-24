@@ -19,8 +19,8 @@ namespace AdivinaLaPalabra
             string frutaUsuario;
             do
             {
-                frutaUsuario = Console.ReadLine().ToLower();
-                if(frutaSecreta == frutaUsuario)
+                frutaUsuario = Console.ReadLine();
+                if(frutaSecreta.ToLower() == frutaUsuario.ToLower())
                 {
                     Console.WriteLine("Felicidades, adivinaste mi fruta secreta !! :D");
                 }
