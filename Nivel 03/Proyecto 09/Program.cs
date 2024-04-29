@@ -1,32 +1,52 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Proyecto_09
 {
     internal class Program
     {
-        public int z;
+        // Variable de ámbito de clase (también conocida como variable de instancia)
+        private int variableDeClase = 10;
+
+        // Variable estática (simula un ámbito global dentro del contexto de la clase)
+        private static int variableGlobal = 20;
+
         static void Main(string[] args)
         {
-            int y = 10;
-            if (y >= 5)
-            {
-                int x = 10; // x solo es accesible dentro del bloque if
-                y = 2;
-            }else
-            {
-                y = 20;
+            // Creación de un objeto de la clase Program
+            Program demo = new Program();
 
-            }
-            // x no es accesible aquí
+            // Llamada al método de la instancia que muestra el uso de variables
+            demo.MetodoDeInstancia();
 
-            for (int i = 0; i < 5; i++)
+            // Llamada al método estático
+            MetodoEstatico();
+        }
+
+        void MetodoDeInstancia()
+        {
+            // Variable de ámbito de método
+            int variableLocal = 5;
+
+            if (variableLocal > 0)
             {
-                Console.WriteLine(y);
+                // Variable de ámbito de bloque
+                int variableDeBloque = variableLocal + variableDeClase;
+                Console.WriteLine("Variable de Bloque: " + variableDeBloque);
             }
+
+            // Aquí no podemos acceder a variableDeBloque porque su ámbito es solo dentro del bloque if
+
+            Console.WriteLine("Variable Local: " + variableLocal);
+            Console.WriteLine("Variable de Clase (Instancia): " + variableDeClase);
+        }
+
+        static void MetodoEstatico()
+        {
+            // Acceso a la variable estática (global dentro de la clase)
+            Console.WriteLine("Variable Global (Estática): " + variableGlobal);
+
+            // No se puede acceder a variableDeClase porque es una variable de instancia
+            // Intentar hacerlo aquí causaría un error de compilación
         }
     }
 }

@@ -1,0 +1,7 @@
+D:\JoseLuisPZ\Lenguaje C#\Nivel 03\Proyecto 09\obj\Debug\Proyecto 09.csproj.AssemblyReference.cache
+D:\JoseLuisPZ\Lenguaje C#\Nivel 03\Proyecto 09\obj\Debug\Proyecto 09.csproj.CoreCompileInputs.cache
+D:\JoseLuisPZ\Lenguaje C#\Nivel 03\Proyecto 09\bin\Debug\Proyecto 09.exe.config
+D:\JoseLuisPZ\Lenguaje C#\Nivel 03\Proyecto 09\bin\Debug\Proyecto 09.exe
+D:\JoseLuisPZ\Lenguaje C#\Nivel 03\Proyecto 09\bin\Debug\Proyecto 09.pdb
+D:\JoseLuisPZ\Lenguaje C#\Nivel 03\Proyecto 09\obj\Debug\Proyecto 09.exe
+D:\JoseLuisPZ\Lenguaje C#\Nivel 03\Proyecto 09\obj\Debug\Proyecto 09.pdb
