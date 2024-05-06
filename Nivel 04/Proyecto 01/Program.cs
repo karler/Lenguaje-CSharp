@@ -16,6 +16,7 @@ namespace Proyecto_01
                 Console.WriteLine($"{Nombre}: Guau!");
             }
         }
+        
         static void Main(string[] args)
         {
             // Creación de objetos
