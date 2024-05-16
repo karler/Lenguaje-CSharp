@@ -18,28 +18,31 @@ namespace Proyecto_02
             while (juego)
             {
                 //Generamos los numeros aleatorios
-                num1 = aleatorio.Next(1, 15);
-                num2 = aleatorio.Next(5, 20);
-                operacion = aleatorio.Next(1, 3);
+                num1 = aleatorio.Next(10, 25);
+                num2 = aleatorio.Next(5, 10);
+                operacion = aleatorio.Next(1, 5);
                
-                //Mostrar en pantalla la operación
+                //Mostrar en pantalla la operación y calculamos el resultado
                 if(operacion == 1)
                 {
                     Console.Write($"{num1} + {num2} = ");
+                    resultado = num1 + num2;
                 }
                 if(operacion == 2)
                 {
                     Console.Write($"{num1} - {num2} = ");
-                }
-                
-                // Calculamos el resultado
-                if (operacion == 1)
-                {
-                    resultado = num1 + num2;
-                }
-                if (operacion == 2)
-                {
                     resultado = num1 - num2;
+                }
+                if (operacion == 3)
+                {
+                    Console.Write($"{num1} * {num2} = ");
+                    resultado = num1 * num2;
+                }
+                if (operacion == 4)
+                {
+                    num1 = num2 * num1;
+                    Console.Write($"{num1} / {num2} = ");
+                    resultado = num1 / num2;
                 }
                 
                 //Recibimos la respuesta del usuario
